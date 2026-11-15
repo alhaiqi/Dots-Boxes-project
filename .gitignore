@@ -1,0 +1,7 @@
+build/
+dots_and_boxes
+test_board
+*.o
+*.d
+vgcore.*
+core
