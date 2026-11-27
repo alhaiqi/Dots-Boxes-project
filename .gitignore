@@ -5,3 +5,4 @@ test_board
 *.d
 vgcore.*
 core
+test_bot
